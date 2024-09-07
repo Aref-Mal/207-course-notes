@@ -1,4 +1,4 @@
-# Chapter 0: Introduction to Git
+# Chapter 0: Messing around with git
 Throughout this course and most future programming endeavors, you will be using version control systems to manage your code. Git is one common version control system and will be the primary focus for this course.
 
 ## 0.1. What is Version Control?
